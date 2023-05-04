@@ -77,7 +77,7 @@
 //                | ALT | SPC | LWR | SPC |    | LWR | BKSP | RSE | GUI |
 // --------------------------------------------------------------------------------------
  &kp ESC   &kp Q   &kp W   &kp E   &kp R    &kp T    &kp Y   &kp U    &kp I       &kp O     &kp P      &kp BSLH
- &kp LCTRL &kp A   &kp S   &kp D   &kp F    &kp G    &kp H   &kp J    &kp K       &kp L     &kp SEMI   &kp QUOT
+ &kp LCTRL &kp A   &kp S   &kp D   &kp F    &kp G    &kp H   &kp J    &kp K       &kp L     &kp SEMI   &kp RET
  &kp LSHFT &mt LSHIFT Z   &kp X   &kp C   &kp V    &kp B    &kp N   &kp M    &kp COMMA   &kp DOT   &mt RSHIFT FSLH   &mt RSHIFT GRAVE
 
 
