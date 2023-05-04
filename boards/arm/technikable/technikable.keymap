@@ -80,6 +80,7 @@
  &kp LSHFT &mt LSHIFT Z   &kp X   &kp C   &kp V    &kp B    &kp N   &kp M    &kp COMMA   &kp DOT   &mt RSHIFT FSLH   &mt RSHIFT GRAVE
 
 
+
  
 #ifdef TBLE_DUAL_2U
     &kp LALT  &kp LALT      &lt NAV_L SPACE                &lt NUM_L BKSP              &mo ARROW_L    &lt BT_L LGUI
